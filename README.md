@@ -1,1 +1,1 @@
-This is a single page
+This is a single page application
