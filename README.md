@@ -1,1 +1,1 @@
-This is a single 
+This is a single page
